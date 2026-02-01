@@ -9,4 +9,4 @@ We operate at the intersection of precise geometry and organic craft. Our work i
 - **Design:** Exploring philographics, motion, and visual systems.
 - **Media:** Producing content that tells the story of our craft.
 
-[Visit the Studio](https://laussat-studio.github.io/documentation/laussat-studio)
+[Visit the Studio](https://laussat.studio)
